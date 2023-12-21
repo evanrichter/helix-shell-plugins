@@ -1,0 +1,11 @@
+[package]
+name = "helix-shell-plugins"
+version = "0.0.1"
+authors = ["Evan Richter <evanjrichter@gmail.com>"]
+edition = "2021"
+description = "my shell plugins for helix"
+license = "MIT"
+keywords = []
+categories = []
+
+[dependencies]
